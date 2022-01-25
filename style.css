@@ -1,0 +1,17 @@
+body{
+    background-image: url(./загружено.jfif);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: aliceblue ;
+    font-size: 48px;
+    
+}
+.dolboeb{
+    border-radius: 50%;
+    border: 10px solid aquamarine;
+}
